@@ -1,40 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Projeto CRUD</h1>
 
-## Getting Started
+###
 
-First, run the development server:
+<div align="center">
+  <img height="550" src="https://i.ibb.co/CvFYrWV/tabela.png"  />
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+###
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h3 align="left">CRUD</h3>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+###
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+<p align="left">é um acrônimo para as quatro operações básicas de manipulação de dados em um sistema de gerenciamento de banco de dados: Create (Criar), Read (Ler), Update (Atualizar), Delete (Apagar)</p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+###
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<h3 align="left">🛠 Language and tools</h3>
 
-## Learn More
+###
 
-To learn more about Next.js, take a look at the following resources:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+###
+<div align="center">
+<div align="left">
+  <img height="250" src="https://i.ibb.co/CvFYrWV/tabela.png"  />
+</div>
+<div align="right">
+  <img height="250" src="https://i.ibb.co/qsMzNL7/form.png"  />
+</div>
+</div
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+###
 
-## Deploy on Vercel
+<p align="left">Esse projeto simula a criação de uma cliente com suas as seguintes informações: Nome, Idade e ID(código id será gerado automaticamente pelo firebase).</p>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+###
