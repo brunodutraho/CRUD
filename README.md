@@ -31,14 +31,11 @@
 </div>
 
 ###
-<div align="center">
+
 <div align="left">
   <img height="250" src="https://i.ibb.co/CvFYrWV/tabela.png"  />
-</div>
-<div align="right">
   <img height="250" src="https://i.ibb.co/qsMzNL7/form.png"  />
 </div>
-</div
 
 ###
 
