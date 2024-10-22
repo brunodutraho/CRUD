@@ -32,7 +32,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img height="250" src="https://i.ibb.co/CvFYrWV/tabela.png"  />
   <img height="250" src="https://i.ibb.co/qsMzNL7/form.png"  />
 </div>
